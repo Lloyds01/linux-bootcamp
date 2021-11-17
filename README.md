@@ -33,4 +33,5 @@ Linux Cloud Engineer Bootcamp
 
 7. ![Resize](https://github.com/Lloyds01/linux-bootcamp/blob/main/LAB%20SCREEN/SIZE.PNG?raw=True)
 
+8. ![Managing tasks](https://github.com/Lloyds01/linux-bootcamp/blob/main/LAB%20SCREEN/Manage.PNG?raw=True)
 
