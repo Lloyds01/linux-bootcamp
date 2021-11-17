@@ -19,3 +19,6 @@ Linux Cloud Engineer Bootcamp
 8. ![view web in action](https://github.com/Lloyds01/linux-bootcamp/blob/main/LAB%20SCREEN/my%20web.PNG?raw=True)
 
 # Lab 2: Manage Linux VMs with the Azure CLI
+1. ![create resource-group](https://github.com/Lloyds01/linux-bootcamp/blob/main/LAB%20SCREEN/Group.PNG?raw=True)
+
+2. ![create virtual machine](https://github.com/Lloyds01/linux-bootcamp/blob/main/LAB%20SCREEN/SPEC%20IMAGE.PNG?raw=True)
