@@ -25,6 +25,7 @@ Linux Cloud Engineer Bootcamp
 
 3. ![connect to VM](https://github.com/Lloyds01/linux-bootcamp/blob/main/LAB%20SCREEN/SSH.PNG?raw=True)
 
-4. ![understanding VM](https://github.com/Lloyds01/linux-bootcamp/blob/main/LAB%20SCREEN/UND1.PNG?raw = True)
+4. ![understanding VM](https://github.com/Lloyds01/linux-bootcamp/blob/main/LAB%20SCREEN/UND1.PNG?raw=True)
 
 5. ![VM sizes](https://github.com/Lloyds01/linux-bootcamp/blob/main/LAB%20SCREEN/VM%20LIST.PNG?raw=True)
+
