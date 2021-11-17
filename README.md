@@ -37,7 +37,7 @@ Linux Cloud Engineer Bootcamp
 
 
 # Lab 3: Manage Azure disks with the Azure CLI
-1. ![one](https://github.com/Lloyds01/linux-bootcamp/blob/main/LAB%20SCREEN/lab301.PNG?rawTrue)
+1. ![one](https://github.com/Lloyds01/linux-bootcamp/blob/main/LAB%20SCREEN/lab301.PNG?raw=True)
 
 2. ![two](https://github.com/Lloyds01/linux-bootcamp/blob/main/LAB%20SCREEN/lab302.PNG?raw=True)
 
