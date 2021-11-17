@@ -29,4 +29,8 @@ Linux Cloud Engineer Bootcamp
 
 5. ![VM sizes](https://github.com/Lloyds01/linux-bootcamp/blob/main/LAB%20SCREEN/VM%20LIST.PNG?raw=True)
 
+6. ![resize](https://github.com/Lloyds01/linux-bootcamp/blob/main/LAB%20SCREEN/RESIZE%20VM.PNG?raw=True)
+
+7. ![Resize](https://github.com/Lloyds01/linux-bootcamp/blob/main/LAB%20SCREEN/SIZE.PNG?raw=True)
+
 
