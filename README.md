@@ -22,3 +22,5 @@ Linux Cloud Engineer Bootcamp
 1. ![create resource-group](https://github.com/Lloyds01/linux-bootcamp/blob/main/LAB%20SCREEN/Group.PNG?raw=True)
 
 2. ![create virtual machine](https://github.com/Lloyds01/linux-bootcamp/blob/main/LAB%20SCREEN/SPEC%20IMAGE.PNG?raw=True)
+
+3. ![connect to VM](https://github.com/Lloyds01/linux-bootcamp/blob/main/LAB%20SCREEN/SSH.PNG?raw=True)
