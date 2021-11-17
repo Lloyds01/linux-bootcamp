@@ -17,3 +17,5 @@ Linux Cloud Engineer Bootcamp
 7. ![install nginx](https://github.com/Lloyds01/linux-bootcamp/blob/main/LAB%20SCREEN/nginx.PNG?raw=True)
 
 8. ![view web in action](https://github.com/Lloyds01/linux-bootcamp/blob/main/LAB%20SCREEN/my%20web.PNG?raw=True)
+
+# Lab 2: Manage Linux VMs with the Azure CLI
