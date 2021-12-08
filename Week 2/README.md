@@ -1,11 +1,6 @@
-# WEEK TWO
-#    Launch AWS Cloud Shell 
-#    Create virtual machine
-#    Open port 80 for web traffic
-#    Connect to virtual machine
-#    Install web server
-#    View the web server in action
+# week two
 
+# LAB 1 : Create a virtual machine with aws 
 1. ![CLI](https://github.com/Lloyds01/linux-bootcamp/blob/main/LAB%20SCREEN/aws%20ssh%20instance.PNG?raw=True)
 
 2. ![CLI](https://github.com/Lloyds01/linux-bootcamp/blob/main/LAB%20SCREEN/httpd%201.PNG?raw=True)
