@@ -1,6 +1,6 @@
 # week two
 
-# LAB 1 : Create a virtual machine with aws 
+# Lab 1: Create a Linux virtual machine with the AWS CLI 
 1. ![CLI](https://github.com/Lloyds01/linux-bootcamp/blob/main/LAB%20SCREEN/aws%20ssh%20instance.PNG?raw=True)
 
 2. ![CLI](https://github.com/Lloyds01/linux-bootcamp/blob/main/LAB%20SCREEN/httpd%201.PNG?raw=True)
