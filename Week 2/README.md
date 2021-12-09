@@ -12,3 +12,9 @@
 5. ![CLI](https://github.com/Lloyds01/linux-bootcamp/blob/main/LAB%20SCREEN/complete.PNG?raw=True)
 
 6. ![CLI](https://github.com/Lloyds01/linux-bootcamp/blob/main/LAB%20SCREEN/complete.PNG?raw=True)
+
+
+# Lab 2: Lab 2: Manage Linux VMs with the AWS CLI
+
+1. 
+
