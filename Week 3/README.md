@@ -7,10 +7,15 @@
 
 ![CLI](https://github.com/Lloyds01/linux-bootcamp/blob/main/LAB%20SCREEN/lab303.PNG?raw=True)
 
-![CLI]( ?raw=True)
-![CLI]( ?raw=True)
-![CLI]( ?raw=True)
-![CLI]( ?raw=True)
+![CLI](https://github.com/Lloyds01/linux-bootcamp/blob/main/LAB%20SCREEN/check.PNG?raw=True)
+
+![CLI](https://github.com/Lloyds01/linux-bootcamp/blob/main/week%203%20images/week3_lab1_apache_live.PNG?raw=True)
+
+ verify php
+![CLI](https://github.com/Lloyds01/linux-bootcamp/blob/main/week%203%20images/week3_lab1_apache_php.PNG?raw=True)
+
+![CLI](https://github.com/Lloyds01/linux-bootcamp/blob/main/week%203%20images/week3_lab1_apache_php_live.PNG?raw=True)
+
 ![CLI]( ?raw=True)
 ![CLI]( ?raw=True)
 ![CLI]( ?raw=True)
